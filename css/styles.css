@@ -2,3 +2,6 @@
   boder: 0;
   margin: 0 auto;
 }
+.borde{
+  border: 1px black solid;
+}
