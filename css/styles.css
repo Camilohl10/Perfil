@@ -5,3 +5,9 @@
 .borde{
   border: 1px black solid;
 }
+p {
+  color: red;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: justify;
+
+}
